@@ -13,4 +13,8 @@ Continued working on Showcase, a music deiscovery application. Added eslint to p
 [Commit for tonight](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/049dfdbb7c8122479ca075d3b7dd6e799e5e06cd)
 
 
-### R1D2
+### R1D2 - 7/10/2018
+More work on Showcase. Updated linter rules, added loading equalizer svg and artist tiles are showing up. 
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/a65ebb089e9e1f3fb78233e96b8730d0c8b4ee82)
