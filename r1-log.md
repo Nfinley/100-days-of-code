@@ -18,3 +18,10 @@ More work on Showcase. Updated linter rules, added loading equalizer svg and art
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/a65ebb089e9e1f3fb78233e96b8730d0c8b4ee82)
+
+### R1D3 - 7/11/2018
+Discover Showcase work. Added prettier to codebase and cleaned up code
+
+**Link to work**
+[Today's commit]()
+
