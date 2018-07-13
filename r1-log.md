@@ -20,8 +20,14 @@ More work on Showcase. Updated linter rules, added loading equalizer svg and art
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/a65ebb089e9e1f3fb78233e96b8730d0c8b4ee82)
 
 ### R1D3 - 7/11/2018
-Discover Showcase work. Added prettier to codebase and cleaned up code
+Discover Showcase work. Added prettier to codebase and cleaned up code. Almost able to create playlist in Spotify.
 
 **Link to work**
-[Today's commit]()
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/31fc9d465840006e88b3f7058a99aef13250d4c8)
+
+### R1D4 - 7/12/2018
+Discover Showcase work. Refactored Songkick helper call to redux and clean up code
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/1f06a4ad4ccae9a1397bd758d0bf11ad0a314693)
 
