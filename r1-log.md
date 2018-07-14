@@ -31,3 +31,8 @@ Discover Showcase work. Refactored Songkick helper call to redux and clean up co
 **Link to work**
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/1f06a4ad4ccae9a1397bd758d0bf11ad0a314693)
 
+### R1D4 - 7/12/2018
+Discover Showcase work. Removing logic from React components and moving to redux selectors. Heavy refactoring
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/1f06a4ad4ccae9a1397bd758d0bf11ad0a314693)
