@@ -42,3 +42,9 @@ Discover Showcase work. Working with SongKick API and pagination to retreive all
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/5b996b58e30b45ee932db9415ef7c2a6739b154b)
+
+### R1D6 - 7/16/2018
+Missed a day because I was falling asleep. Started working on a ping pong leaderboard app in react/electron and firebase. Committed initial files
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/stackpong-leaderboard/commit/0cfe3eb210ba16f45a45c6ba51cba85447b69f37)
