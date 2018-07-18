@@ -48,3 +48,9 @@ Missed a day because I was falling asleep. Started working on a ping pong leader
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/stackpong-leaderboard/commit/0cfe3eb210ba16f45a45c6ba51cba85447b69f37)
+
+### R1D8 - 7/17/2018
+Worked on ping pong app and using firebase. Hooked up the register page so users can now register. Rippiing out uneeded code.
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/stackpong-leaderboard/commit/4fc7b67139c78c75dad6c26307d51df0ac3d90ea)
