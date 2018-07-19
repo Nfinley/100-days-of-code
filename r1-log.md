@@ -54,3 +54,11 @@ Worked on ping pong app and using firebase. Hooked up the register page so users
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/stackpong-leaderboard/commit/4fc7b67139c78c75dad6c26307d51df0ac3d90ea)
+
+
+
+### R1D9 - 7/18/2018
+Upgraded React, Node and other packages to latest, also installed Material UI and revamped sign in page
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/69a1aa8ed4383fa0fbe66b5a12bc9d6a6c30e3a7)
