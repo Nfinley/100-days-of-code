@@ -62,3 +62,9 @@ Upgraded React, Node and other packages to latest, also installed Material UI an
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/69a1aa8ed4383fa0fbe66b5a12bc9d6a6c30e3a7)
+
+### R1D10 - 7/20/2018
+Refactored spotify redux modules, added some css and worked helper and selector functions. Read some spotfy API web docs
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/5b95548e51d4b105ca4a7cee3a7cc163fd3e0b17)
