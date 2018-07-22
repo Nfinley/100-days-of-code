@@ -68,3 +68,9 @@ Refactored spotify redux modules, added some css and worked helper and selector 
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/5b95548e51d4b105ca4a7cee3a7cc163fd3e0b17)
+
+### R1D11 - 7/21/2018
+Added some error handling in Dashboard when no concerts in your area exist 
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/c070a9410717fc3f927f42688d9ee0c8e7a6711e)
