@@ -74,3 +74,10 @@ Added some error handling in Dashboard when no concerts in your area exist
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/c070a9410717fc3f927f42688d9ee0c8e7a6711e)
+
+
+### R1D12 - 7/26/2018
+Basic happy path is working for music app. Refactored spotify calls in redux 
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/9c1adfb85718c62c6138b657e4328099900cd2cf)
