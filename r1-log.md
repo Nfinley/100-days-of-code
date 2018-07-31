@@ -83,8 +83,14 @@ Basic happy path is working for music app. Refactored spotify calls in redux
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/9c1adfb85718c62c6138b657e4328099900cd2cf)
 
 
-### R1D12 - 7/27/2018
+### R1D13 - 7/27/2018
 Upgrading Webpack and adding autocomplete for genre
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/e490c9454e04b4818fcdbf76aa6ea80783659c58)
+
+### R1D14 - 7/30/2018
+Upgrading to webpack 4 and all other dependencies. Stuck on a console error
+
+**Link to work**
+[Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/c3424acc0b1cdc69a1d9bcadd33be81fec197507)
