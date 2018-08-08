@@ -94,3 +94,10 @@ Upgrading to webpack 4 and all other dependencies. Stuck on a console error
 
 **Link to work**
 [Today's commit](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/c3424acc0b1cdc69a1d9bcadd33be81fec197507)
+
+### R1D15 - 8/9/2018
+Still stuck on console error and posted to Stack overflow: 
+[Stackoverflow Link](https://stackoverflow.com/questions/51740795/redux-web-extension-uncaught-typeerror-invalid-attempt-to-spread-non-iterable)
+
+**Link to work**
+No link tonight 
