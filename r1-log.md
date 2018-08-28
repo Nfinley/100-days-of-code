@@ -101,3 +101,15 @@ Still stuck on console error and posted to Stack overflow:
 
 **Link to work**
 No link tonight 
+
+
+### R1D16 - 8/24/2018
+Posted about reading Js Design patterns 
+**Link to work**
+No link tonight 
+
+### R1D17 - 8/28/2018
+Aded autocomplete and react date calender to app
+**Link to work**
+[Today's work](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/ff84b77357c06f21b5cfcfa9049af1495e8557f7)
+
