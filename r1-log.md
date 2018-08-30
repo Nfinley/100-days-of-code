@@ -118,3 +118,9 @@ More work on react dates
 **Link to work**
 [Today's work](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/ff84b77357c06f21b5cfcfa9049af1495e8557f7)
 
+### R1D19 - 8/30/2018
+Troubleshooting build issues. Tried to deploy to heroku and the build failed 
+
+No link tonight 
+
+
