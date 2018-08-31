@@ -124,3 +124,11 @@ Troubleshooting build issues. Tried to deploy to heroku and the build failed
 No link tonight 
 
 
+### R1D20 - 8/31/2018
+Troubleshooting build issues. Posted to stack overflow [Link](https://stackoverflow.com/questions/52109671/babel-default-is-not-a-valid-plugin-property-at-object-keys-foreach-key)
+And learned something about how to require plugins in babel. 
+
+**Link to work**
+[Today's work](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/e7693b4ce8aab7f50373c6e4cbd11e086ec68d30)
+
+
