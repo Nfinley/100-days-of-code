@@ -132,7 +132,7 @@ And learned something about how to require plugins in babel.
 [Today's work](https://github.com/Nfinley/Showcase-Playlist-Generator/commit/e7693b4ce8aab7f50373c6e4cbd11e086ec68d30)
 
 
-### R1D21 - 9/11, 9/14 9/16/2018
+### R1D21/22/23 - 9/11, 9/14 9/16/2018
 Added Autocomplete and calendar, reformatting the pages, added a true dashboard page and added preview url play and preview to cards
 
 **Link to work**
